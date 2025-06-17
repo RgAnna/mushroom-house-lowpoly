@@ -45,5 +45,5 @@ __Contact:__ [https://www.artstation.com/rganna](https://www.artstation.com/rgan
 - Совместима с Unity, Unreal Engine и другими движками.
 
 __Контакты__:
-[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/rganna)[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RgAnna_Art)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/rganna) **|** [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RgAnna_Art)
 
