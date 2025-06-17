@@ -44,7 +44,7 @@ __Contact:__ [https://www.artstation.com/rganna](https://www.artstation.com/rgan
 - Полностью создана в Blender, легко редактируется и настраивается.  
 - Совместима с Unity, Unreal Engine и другими движками.
 
-## 📬 Контакты
+## Контакты
 
 - [![ArtStation](https://img.shields.io/badge/-ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/rganna) 
 - [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/RgAnna_Art)
