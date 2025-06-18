@@ -29,7 +29,7 @@ This 3D scene features a whimsical low poly mushroom house designed with a styli
 [![Sketchfab](https://img.shields.io/badge/-Sketchfab-000000?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/RgAnna)
 
 
-----------------------------------------------------------------------
+___
 
 # Грибной Домик (Low Poly)
 
